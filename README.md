@@ -58,7 +58,3 @@
 
 
 
-## 배포 URL
-
-[https://j3d105.p.ssafy.io](https://j3d105.p.ssafy.io)
-
